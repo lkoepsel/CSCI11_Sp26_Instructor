@@ -85,7 +85,7 @@ This creates a simple modulo-4 counter that continuously cycles through these va
 
 One could take this program counter and add the *2 to 4 Decoder* and have a very simple state machine.
 
-![full_adder_2](../static/full_adder_2.png)
+![full_adder_2](../static/2-bit_full_adder.png)
 
 ```
 
