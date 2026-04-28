@@ -1,7 +1,9 @@
 # Readme
 
 ## Simple Math Calculator (SMC)
-Latest guidance for [Simple Math Calculator](./static/Simple%20Math%20Calculator.md)
+Latest guidance for [Simple Math Calculator](./static/Simple%20Math%20Calculator.md) 
+
+This version will be the *single-source-of-truth*, if you adhere to these instructions you will have the greatest chance for success.
 
 ## Setup Instructions
 1. Be sure to **COPY** the week's assignments from this repository to your homework repository (CSCI11_Sp26_Student).
