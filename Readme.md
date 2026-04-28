@@ -1,6 +1,6 @@
 # Readme
 
-Latest version of [Simple Math Calculator](./static/Simple%20Math%20Calculator.pdf)
+Latest version of [Simple Math Calculator](./static/Simple%20Math%20Calculator.md)
 1. Be sure to **COPY** the week's assignments from this repository to your homework repository (CSCI11_Sp26_Student).
 
 In the Terminal:
