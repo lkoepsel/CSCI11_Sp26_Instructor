@@ -18,11 +18,13 @@ This LC3-based Reverse Polish Notation (RPN) calculator will accept numbers with
 * . - print the number on the top of stack
 
 ### Prompts
-The calculator will show the following prompts:
-* \> - ready to accept a new number
-* ? - error occurred, input doesn't make sense
+The calculator will show the following prompts (*at a minimum*):
+* \> - ready to calculate (**previously this said, ready for new number which in a RPN style calculator is redundant**)
+* ? - an error caused by an operation such as divide by zero
 * $ - stack error occurred
 * ! - numeric overflow or underflow
+
+**If you wish to have more text or provide more explanation, that is up to you.**
 
 ### Headings
 At the beginning of the program, the calculator will display a title and a short series of subheadings to describe how to use it. As an example:
@@ -36,13 +38,13 @@ Enter 0-9 or +, -, *, /, or
 ## Conditions
 
 ### Input
-1. Only numbers and "." will be recognized, all other characters will be ignored.
+1. Only numbers, operators (+, -, *, /), data entry (*see #4 below*) and "." will be recognized, all other characters will be ignored.
 2. If only one number on top of stack (*TOS*) then an math operator input, an error prompt will be displayed.
 3. The print operator "." will display TOS, even if it is the only number on the stack.
-4. After discussion and thought, one will need to indicate that a number has been entered. There are several methods:
+4. After discussion and thought, one will need to indicate that a number has been entered, this is called "*data entry*". There are several methods:
     * Use a " " (space x20) - which will allow numbers and operators to remain on one line. This makes it easy to understand what was input, however, this might not be natural for some people to type.
     * Use a "CR" (carriage return x0A) - using *CR* or *Return* or *Enter* (all the same ASCII char), makes it more natural from an input perspective. In other words, "Enter a number hit Enter" then enter the operator, however, this makes it harder to read and it would probably make sense to output the operator and a LF as compared to just printing the operator.
-    * Something else, which makes sense to you. What you choose isn't material, why you chose it and how it works from a user experience (UX) will matter.
+    * Something else, which makes sense to you. What you choose isn't material, why you chose it and how it works from a user experience (UX) will matter. It can be any key which makes sense to you, as you have total control of the interface. 
 
 ### Output
 1. See Prompts
