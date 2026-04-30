@@ -1,6 +1,7 @@
 # Readme
 
 ## [Schedule for 1:1](https://docs.google.com/spreadsheets/d/1uqkmpcHm47SBBEmQEF1dWFXm9dCoHdQmP4bdEQzr2AE/edit?usp=share_link)
+Enter your name into an open time slot to reserve your 1:1.
 
 ## Simple Math Calculator (SMC)
 Latest guidance for [Simple Math Calculator](./static/Simple%20Math%20Calculator.md) 
