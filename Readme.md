@@ -3,6 +3,17 @@
 ## [Schedule for 1:1](https://docs.google.com/spreadsheets/d/1uqkmpcHm47SBBEmQEF1dWFXm9dCoHdQmP4bdEQzr2AE/edit?usp=share_link)
 Enter your name into an open time slot to reserve your 1:1.
 
+## SMC 1:1 Review
+
+1. Your SMC will be submitted as a separate Github repo. I recommend that it is private and I am added as a collaborator, lkoepsel@wellys.com . This is the same way your assignment repo is setup.
+
+2. **I will need to be added prior to your scheduled time. Do not wait, do not forget.**
+
+3. In the 1:1, I'll review the repo with you including copying your final SMC code and running it in LC3Tools. The name of your **SMC** code will be *smc.asm* and it will be in the *code* folder.
+
+4. Be sure to continue to review the SMC guidance at the top of the Instructor repo.
+
+
 ## Simple Math Calculator (SMC)
 Latest guidance for [Simple Math Calculator](./static/Simple%20Math%20Calculator.md) 
 
