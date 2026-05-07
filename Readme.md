@@ -1,5 +1,9 @@
 # Readme
 
+## LC3Tools
+[gt-cs2110/lc3tools](https://github.com/gt-cs2110/lc3tools) - If you are looking for the tools we use in class.
+
+
 ## [Schedule for 1:1](https://docs.google.com/spreadsheets/d/1uqkmpcHm47SBBEmQEF1dWFXm9dCoHdQmP4bdEQzr2AE/edit?usp=share_link)
 Enter your name into an open time slot to reserve your 1:1.
 
